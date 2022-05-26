@@ -1,0 +1,17 @@
+.th{
+	font-size: 12px;
+	height: 20px;
+	width: 100px;
+	background-color: #4e545c;
+	color: #e5e8e8;
+}
+
+#patio{
+    text-align: center;
+    font-size: 12px;
+	height: 20px;
+	width: 100px;
+	background-color: #aacfff;
+	color: #000000;
+    font-style: italic;
+}
